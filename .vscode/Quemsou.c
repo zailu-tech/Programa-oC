@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("Olá, mundo!\n");
-
+    printf("Meu nome é zailu e tenho 19 anos\n");
 
     return 0;
 
